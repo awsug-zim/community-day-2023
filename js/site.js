@@ -27,11 +27,6 @@ $(function() {
       $(this).toggleClass("on");
       $("#nav-bar").toggleClass("active");
     });
-    $("#link").click(function() {
-      var src = "https://www.youtube.com/embed/t08KFuSgUZE?&autoplay=1&mute=1";
-      $("#myModal").modal("show");
-      $("#myModal iframe").attr("src", src);
-    });
 
     $("#myModal button").click(function() {
       $("#myModal iframe").removeAttr("src");
