@@ -1,3 +1,5 @@
 # AWS Community Day, Harare 2023
 
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/498ca6d8-1df3-45e0-842f-d757315cf62e/deploy-status)](https://app.netlify.com/sites/angry-goldberg-f1c5b8/deploys) -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f044d46-2ea3-473c-89d9-648cf452b617/deploy-status)](https://app.netlify.com/sites/awscommunitydayzim/deploys)
+
+
